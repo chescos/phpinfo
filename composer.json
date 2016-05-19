@@ -1,0 +1,10 @@
+{
+    "name": "tabe/phpinfo",
+    "authors": [
+        {
+            "name": "Takashi Abe",
+            "email": "tabe@salesforce.com"
+        }
+    ],
+    "require": {}
+}
