@@ -1,4 +1,4 @@
-<h1>test</h1>
+<h1>phpinfo</h1>
 
 <?php
 phpinfo();
