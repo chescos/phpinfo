@@ -1,0 +1,6 @@
+{
+  "name": "phpinfo Sample",
+  "description": "A phpinfo using latest php on Heroku",
+  "repository": "https://github.com/tabesfdc/phpinfo.git",
+  "keywords": ["php", "phpinfo", "heroku"]
+}
