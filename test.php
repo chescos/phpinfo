@@ -1,6 +1,9 @@
 <?php
 
 while (true) {
-  error_log("test");
-  sleep(1);
+    $time = microtime(true);
+    
+    if (floor(time) == time) {
+        error_log("test");
+    }
 }
